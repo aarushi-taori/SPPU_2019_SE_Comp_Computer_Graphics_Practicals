@@ -19,7 +19,7 @@ drawing algorithm. Apply the concept of encapsulation.
 
 **GROUP - B**
 
-Practical 4 : Write C++ program to draw 2-D object and perform following basic transformations, <br>a)Scaling
+Practical 4 : Write C++ program to draw 2-D object and perform following basic transformations, <br>a) Scaling
 <br>b) Translation <br>c) Rotation. Apply the concept of operator overloading.
 
 Practical 5 : Write C++ program to generate fractal patterns by using Koch curves.
