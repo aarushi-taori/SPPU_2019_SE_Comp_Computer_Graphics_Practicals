@@ -24,3 +24,4 @@ Practical 4 : Write C++ program to draw 2-D object and perform following basic t
 
 Practical 5 : Write C++ program to generate fractal patterns by using Koch curves.
 
+Practical 7 : Write a C++ program to implement bouncing ball using sine wave form. Apply the concept of polymorphism.
