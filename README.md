@@ -17,5 +17,10 @@ drawing algorithm. Apply the concept of encapsulation.
 
 ![image](https://github.com/aarushi-taori/SPPU_2019_SE_Comp_Computer_Graphics_Practicals/assets/113369937/4264123e-9852-4fc2-9e2a-4e791468df1c)
 
+**GROUP - B**
 
+Practical 4 : Write C++ program to draw 2-D object and perform following basic transformations, <br>a)Scaling
+<br>b) Translation <br>c) Rotation. Apply the concept of operator overloading.
+
+Practical 5 : Write C++ program to generate fractal patterns by using Koch curves.
 
